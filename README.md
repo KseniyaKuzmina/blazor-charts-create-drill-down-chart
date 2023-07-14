@@ -13,7 +13,7 @@ The example uses a [template](https://docs.devexpress.com/Blazor/DevExpress.Blaz
 
 The example handles the [SeriesClick](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxChart-1.SeriesClick) and [onClick](https://www.w3schools.com/jsref/event_onclick.asp) events to respond to element clicks and switch between data detail levels. Depending on the level, the chart loads and displays corresponding data.
 
-## Files to Look At
+## Files to Review
 
 - [Index.razor](CS/DrillDownChart/Pages/Index.razor)
 
